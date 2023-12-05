@@ -30,8 +30,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 iframe{
-	width: 560px;
-    height: 315px;
+	width: 100%;
+    height: 800px;
     margin: 0 auto;
     background-color: #777;
 	display: block;
